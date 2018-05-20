@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.noblel.qqstep.QQStepView
+        android:id="@+id/step_view"
+        app:outerColor="@color/colorPrimary"
+        app:innerColor="@color/colorAccent"
+        app:borderWidth="10dp"
+        app:stepTextColor="@color/colorAccent"
+        app:stepTextSize="50dp"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"/>
+
+</RelativeLayout>

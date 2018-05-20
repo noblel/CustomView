@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ColorTrackTextView/ColorTrackTextView.iml" filepath="$PROJECT_DIR$/ColorTrackTextView/ColorTrackTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoolView/CoolView.iml" filepath="$PROJECT_DIR$/CoolView/CoolView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomViewPager/CustomViewPager.iml" filepath="$PROJECT_DIR$/CustomViewPager/CustomViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeAnimation/PracticeAnimation.iml" filepath="$PROJECT_DIR$/PracticeAnimation/PracticeAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeCanvas/PracticeCanvas.iml" filepath="$PROJECT_DIR$/PracticeCanvas/PracticeCanvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeDraw/PracticeDraw.iml" filepath="$PROJECT_DIR$/PracticeDraw/PracticeDraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeDrawOrder/PracticeDrawOrder.iml" filepath="$PROJECT_DIR$/PracticeDrawOrder/PracticeDrawOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeEvaluator/PracticeEvaluator.iml" filepath="$PROJECT_DIR$/PracticeEvaluator/PracticeEvaluator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticePaint/PracticePaint.iml" filepath="$PROJECT_DIR$/PracticePaint/PracticePaint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeText/PracticeText.iml" filepath="$PROJECT_DIR$/PracticeText/PracticeText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQStep/QQStep.iml" filepath="$PROJECT_DIR$/QQStep/QQStep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickIndex/QuickIndex.iml" filepath="$PROJECT_DIR$/QuickIndex/QuickIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideView/SlideView.iml" filepath="$PROJECT_DIR$/SlideView/SlideView.iml" />
+    </modules>
+  </component>
+</project>

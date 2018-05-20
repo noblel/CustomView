@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ColorTrackTextView" />
+            <option value="$PROJECT_DIR$/CoolView" />
+            <option value="$PROJECT_DIR$/CustomViewPager" />
+            <option value="$PROJECT_DIR$/PracticeAnimation" />
+            <option value="$PROJECT_DIR$/PracticeCanvas" />
+            <option value="$PROJECT_DIR$/PracticeDraw" />
+            <option value="$PROJECT_DIR$/PracticeDrawOrder" />
+            <option value="$PROJECT_DIR$/PracticeEvaluator" />
+            <option value="$PROJECT_DIR$/PracticePaint" />
+            <option value="$PROJECT_DIR$/PracticeText" />
+            <option value="$PROJECT_DIR$/QQStep" />
+            <option value="$PROJECT_DIR$/QuickIndex" />
+            <option value="$PROJECT_DIR$/SlideView" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

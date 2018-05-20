@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LikeNumView">
+        <attr name="likeNum" format="integer"/>
+        <attr name="likeNumSize" format="dimension"/>
+        <attr name="likeNumColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="FlipView">
+        <attr name="flipSrc" format="reference"/>
+    </declare-styleable>
+</resources>

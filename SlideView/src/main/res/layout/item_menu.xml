@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:background="#ffffff"
+    android:layout_height="60dp">
+
+    <TextView
+        android:id="@+id/tv_top"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:background="#C7C7CD"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="置顶"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_no_read"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:background="#FF9D01"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="标为未读"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:background="#FF3A30"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="删除"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+</LinearLayout>

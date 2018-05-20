@@ -1,0 +1,6 @@
+include ':ColorTrackTextView', ':PracticeAnimation', ':CoolView',
+        ':QQStep', ':QuickIndex',
+        ':SlideView', ':CustomViewPager',
+        ':PracticeDraw', ':PracticePaint',
+        ':PracticeText', ':PracticeCanvas',
+        ':PracticeDrawOrder', ':PracticeEvaluator'
